@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553182019068",
+    "project_id": "iysocial",
+    "storage_bucket": "iysocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553182019068:android:93c1280b6a35edb503c679",
+        "android_client_info": {
+          "package_name": "com.example.minimalsocialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAObJ-yhWi_gv-YFoqg-EAR4Jn4WQonU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
